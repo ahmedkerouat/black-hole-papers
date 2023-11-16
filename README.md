@@ -10,8 +10,7 @@
 
 ## List of papers
 
-| Title | Author(s) |   Date    |                  Abstract |
-| :---- | :-------: | :-------: | ------------------------: |
-| Test  |  Testtt   | Yesterday | testt long test test test |
+| Title | Author(s) | Date | Abstract |
+| :---- | :-------: | :--: | -------: |
 
 ## License
