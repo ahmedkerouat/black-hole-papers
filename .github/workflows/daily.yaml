@@ -1,0 +1,32 @@
+name: Daily Job
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv
+
+      - name: Run script
+        run: |
+          python main.py
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "Add New Black hole paper"
+          add: "readme.md"
