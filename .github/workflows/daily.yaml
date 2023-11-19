@@ -30,3 +30,4 @@ jobs:
         with:
           message: "Add New Black hole paper"
           add: "README.md"
+          add: "current_number.txt"
