@@ -24,6 +24,7 @@ But you could access it from [this website](https://ahmedkerouat.github.io/black
 | Title | Author(s) | Date | Abstract |
 | :---- | :-------: | :--: | -------: |
 | [Exact Black String Solutions in Three Dimensions](http://arxiv.org/abs/hep-th/9108001v1) | James H. Horne, Gary T. Horowitz | 1991-08-14 | A family of exact conformal field theories is constructed which describe charged black strings in three dimensions. Unlike previous charged black hole or extended black hole solutions in string theory, the low energy spacetime metric has a regular inner horizon (in addition to the event horizon) and a timelike singularity. As the charge to mass ratio approaches unity, the event horizon remains but the singularity disappears. |
+| [String Winding in a Black Hole Geometry](http://arxiv.org/abs/hep-th/9108010v1) | Mordechai Spiegelglas | 1991-08-21 | $U(1)$ zero modes in the $SL(2,R)_k/U(1)$ and $SU(2)_k/U(1)$ conformal coset theories, are investigated in conjunction with the string black hole solution. The angular variable in the Euclidean version, is found to have a double set of winding. Region III is shown to be $SU(2)_k/U(1)$ where the doubling accounts for the cut sructure of the parafermionic amplitudes and fits nicely across the horizon and singularity. The implications for string thermodynamics and identical particles correlations are discussed. |
 
 ## License
 
