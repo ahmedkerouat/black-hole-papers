@@ -8,10 +8,10 @@ with open(file_path, "w") as file:
     file.write(str(next_number))
 
 query = 'title="black hole"'
-search = arxiv.Search(query=query,max_results=next_number, sort_by=arxiv.SortCriterion.SubmittedDate, sort_order=arxiv.SortOrder.Ascending)
+search = arxiv.Search(query=query, sort_by=arxiv.SortCriterion.SubmittedDate, sort_order=arxiv.SortOrder.Ascending)
 
 all_results = list(search.results())
-result = all_results[-1]
+result = all_results[next_number]
 
 title = f"[{result.title}]({result.entry_id})"
 authors = ', '.join(author.name for author in result.authors)
