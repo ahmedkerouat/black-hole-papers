@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install arxiv
+          pip install feedparser, datetime
 
       - name: Run script
         run: |
