@@ -171,6 +171,7 @@ But you could access it from [this website](https://ahmedkerouat.github.io/black
 | [Quantum Aspects of Black Holes](http://arxiv.org/abs/hep-th/9209055v1) | J. A. Harvey, A. Strominger | 1992-09-16 | This review is based on lectures given at the 1992 Trieste Spring School on String Theory and Quantum Gravity and at the 1992 TASI Summer School in Boulder, Colorado. |
 | [Numerical Study of the Wheatley-Hsu-Anderson Interlayer Tunneling
   mechanism of High $T_c$ Superconductivity](http://arxiv.org/abs/cond-mat/9209017v1) | M. Arjunwadkar, G. Baskaran, R. Basu, V. N. Muthukumar | 1992-09-16 | We present results obtained (by exact diagonalization) for the problem of two t-J planes with an interlayer coupling $t_\perp$. Our results for small hole concentrations show that in-plane superconducting correlations are enhanced by $t_\perp$. When the constraint on double occupancy in the t-J model is relaxed, the enhancement disappears. These results illustrate the inter--layer tunneling mechanism for superconductivity. |
+| [Do Black Holes Destroy Information?](http://arxiv.org/abs/hep-th/9209058v1) | John Preskill | 1992-09-16 | I review the information loss paradox that was first formulated by Hawking, and discuss possible ways of resolving it. All proposed solutions have serious drawbacks. I conclude that the information loss paradox may well presage a revolution in fundamental physics. (To appear in the proceedings of the International Symposium on Black Holes, Membranes, Wormholes, and Superstrings.) |
 
 ## License
 
