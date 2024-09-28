@@ -312,6 +312,8 @@ But you could access it from [this website](https://ahmedkerouat.github.io/black
 | [Super Black Holes](http://arxiv.org/abs/hep-th/9303002v1) | Ulf H. Danielsson | 1993-03-01 | A quantum version of 2D super dilaton gravity containing a black hole is constructed for $N>8$. A previous disagreement as to whether this is possible or not is resolved. |
 | [An analytical formula for the vacuum polarization of rotating black
   holes](http://arxiv.org/abs/1506.07189v1) | Mirjam Cvetic, Zain H. Saleem, Alejandro Satz | 2015-06-23 | We give an analytical formula for the vacuum polarization of a massless minimally coupled scalar field at the horizon of a rotating black hole with subtracted geometry. This is the first example of an exact, analytical result for a four-dimensional rotating black hole. |
+| [Motion and Trajectories of Particles Around Three-Dimensional Black
+  Holes](http://arxiv.org/abs/gr-qc/9303005v1) | C. Farina, J. Gamboa, A. J. Segui-Santonja | 1993-03-02 | The motion of relativistic particles around three dimensional black holes following the Hamilton-Jacobi formalism is studied. It follows that the Hamilton-Jacobi equation can be separated and reduced to quadratures in analogy with the four dimensional case. It is shown that: a) particles are trapped by the black hole independently of their energy and angular momentum, b) matter alway falls to the centre of the black hole and cannot understake a motion with stables orbits as in four dimensions. For the extreme values of the angular momentum of the black hole, we were able to find exact solutions of the equations of motion and trajectories of a test particle. |
 
 ## License
 
