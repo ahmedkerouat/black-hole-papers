@@ -381,6 +381,7 @@ But you could access it from [this website](https://ahmedkerouat.github.io/black
 | [Dilatonic black holes in theories with moduli fields](http://arxiv.org/abs/hep-th/9305107v1) | M. Cadoni, S. Mignemi | 1993-05-21 | We discuss the low-energy effective string theory when moduli of the compactified manifold are present. Assuming a nontrivial coupling of the moduli to the Maxwell tensor, we find a class of regular black hole solutions. Both the thermodynamical and the geometrical structure of these solutions are discussed |
 | [A Deformed Matrix Model and the Black Hole Background in Two-Dimensional
   String Theory](http://arxiv.org/abs/hep-th/9305109v3) | Antal Jevicki, Tamiaki Yoneya | 1993-05-21 | The refrerences are corrected. |
+| [A Nonsingular Two Dimensional Black Hole](http://arxiv.org/abs/hep-th/9305111v1) | M. Trodden, V. Mukhanov, R. Brandenberger | 1993-05-22 | We construct a model of gravity in 1+1 spacetime dimensions in which the solutions approach the Schwarzschild metric at large $r$ and de Sitter space far inside the horizon. Our model may be viewed as a two dimensional application of the `Limiting Curvature Construction' recently proposed by two of the authors. |
 
 ## License
 
