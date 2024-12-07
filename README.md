@@ -382,6 +382,7 @@ But you could access it from [this website](https://ahmedkerouat.github.io/black
 | [A Deformed Matrix Model and the Black Hole Background in Two-Dimensional
   String Theory](http://arxiv.org/abs/hep-th/9305109v3) | Antal Jevicki, Tamiaki Yoneya | 1993-05-21 | The refrerences are corrected. |
 | [A Nonsingular Two Dimensional Black Hole](http://arxiv.org/abs/hep-th/9305111v1) | M. Trodden, V. Mukhanov, R. Brandenberger | 1993-05-22 | We construct a model of gravity in 1+1 spacetime dimensions in which the solutions approach the Schwarzschild metric at large $r$ and de Sitter space far inside the horizon. Our model may be viewed as a two dimensional application of the `Limiting Curvature Construction' recently proposed by two of the authors. |
+| [Charged Stringy Black Holes With Non-Abelian Hair](http://arxiv.org/abs/hep-th/9305112v1) | E. E. Donets, D. V. Gal'tsov | 1993-05-22 | Static spherically symmetric asymptotically flat charged black hole solutions are constructed within the magnetic SU(3) sector of the 4-dimensional heterotic string effective action. They possess non-abelian hair in addition to the Coulomb magnetic field and are qualitatively similar to the Einstein-Yang-Mills colored SU(3) black holes except for the extremal case. In the extremality limit the horizon shrinks and the resulting geometry around the origin coincides with that of an extremal abelian dilatonic black hole with magnetic charge. Non-abelian hair exibits then typical sphaleron structure. |
 
 ## License
 
